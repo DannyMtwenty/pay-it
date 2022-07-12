@@ -1,0 +1,5 @@
+business_code=174379
+online_passkey='bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919'
+phonenumber='254790561196'
+consumer_key='AEUllAAguh0iC92IX8bwKTjtSBNon7F5'
+consumer_secret= 'zgzG3geQkeHXMQIE'
